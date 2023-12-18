@@ -4,11 +4,11 @@
 
 This is a Project to showcase Akif's skill in MERN
 
-This project is made by React and Node Js
+This project is made by Express and Node Js
 
 There is a web version deployed in HEROKU:
 
-Web App : [https://pi-calculator-frontend-a7510e1fd07b.herokuapp.com/](https://pi-calculator-frontend-a7510e1fd07b.herokuapp.com/)
+Web App : [https://akif-express-api-5abe25376b76.herokuapp.com/](https://akif-express-api-5abe25376b76.herokuapp.com/)
 
 Front end: [Not yet done]
 
