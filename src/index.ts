@@ -18,7 +18,7 @@ const swaggerOptions = {
             description: "A REST API built with Express and MongoDB. This API provides skins of CS2."
         },
     },
-    apis: ["./routes/skins.js"] // Note: Update this if your files are .ts or .mjs
+    apis: ["./src/routes/skins.ts"] // Note: Update this if your files are .ts or .mjs
 };
 
 app.use('/skins', skins);
