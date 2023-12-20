@@ -4,6 +4,8 @@
 
 This is a Project to showcase Akif's skill in MERN
 
+**I have also a showcase how to convert a project into Typescript**
+
 This project is made by Express and Node Js
 
 There is a web version deployed in HEROKU:
